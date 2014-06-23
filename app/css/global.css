@@ -1,0 +1,27 @@
+.bentham {
+    font-family: Bentham;
+}
+.enriqueta-b {
+    font-family: Enriqueta-Bold;
+}
+.enriqueta-r {
+    font-family: Enriqueta-Regular;
+}
+.uppercase {
+    text-transform:uppercase;
+}
+.lowercase {
+    text-transform:lowercase;
+}
+.capitalize {
+    text-transform:capitalize;
+}
+
+.bck-smoke{
+    background-color: #e6e9ed;
+}
+
+.clr-fff{
+    color: #fff;
+}
+

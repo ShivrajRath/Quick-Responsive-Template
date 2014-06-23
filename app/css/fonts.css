@@ -1,0 +1,36 @@
+@font-face
+{
+    font-family: Armalite-Rifle;
+    src: url(fonts/armalite_rifle.ttf);
+}
+
+@font-face
+{
+    font-family: Bentham;
+    src: url(fonts/Bentham.otf);
+}
+
+@font-face
+{
+    font-family: Enriqueta-Bold;
+    src: url(fonts/Enriqueta-Bold.otf);
+}
+
+@font-face
+{
+    font-family: Enriqueta-Regular;
+    src: url(fonts/Enriqueta-Regular.otf);
+}
+
+@font-face
+{
+    font-family: CaviarDreams;
+    src: url(fonts/CaviarDreams.ttf);
+}
+
+@font-face
+{
+    font-family: CaviarDreams-Bold;
+    src: url(fonts/Caviar_Dreams_Bold.ttf);
+}
+

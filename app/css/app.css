@@ -1,0 +1,90 @@
+@import url(global.css);
+ @import url(fonts.css);
+ .main {
+    font-family: Enriqueta-Regular;
+}
+.main .navbar {
+    background: #fff;
+}
+.navbar-brand.logo {
+    font-family: Armalite-Rifle, sans-serif;
+    font-size: 36px;
+}
+.navbar li a {
+    font-size: 15px;
+    font-weight: bold;
+    color: #000;
+}
+.navbar-toggle .icon-bar {
+    background-color: #000;
+}
+.hero {
+    position: relative;
+    overflow: hidden;
+    background: url("../img/bck.png");
+    background-size: cover;
+    text-align: center;
+    padding: 10px 0 20px;
+    margin-top: 50px;
+}
+@media(min-width: 768px) {
+    .hero {
+        padding: 70px 0 100px 0;
+    }
+}
+.main .main-content {
+    background: #fff;
+    padding: 10px;
+}
+.main .main-content .tc-div {
+    padding: 35px 0;
+}
+.heading {
+    font-size: 24px;
+    font-family: CaviarDreams-Bold;
+    text-align: center;
+    margin-bottom: 35px;
+    text-transform: uppercase;
+    color: #9A783E;
+}
+.main .main-content .tc-div .shortdesc {
+    font-size: 24px;
+    font-family: CaviarDreams;
+    text-align: center;
+    font-weight: bolder;
+    margin: 25px;
+    color: #428bca;
+}
+.main .main-content .tc-div .content-image img {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+.main .main-content .tc-div .content-text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.main .topic {
+    font-weight: bolder;
+    font-size: 24px;
+    display: block;
+}
+.main .subtopic {
+    font-weight: normal;
+    font-size: 16px;
+}
+body .footer {
+    background: #2f3f4e;
+    color: #fff;
+    height: auto;
+    margin: 0;
+    padding: 40px 0;
+}
+body .footer dt {
+    font-size: 18px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+body .footer .container a {
+    color: #fff;
+}
